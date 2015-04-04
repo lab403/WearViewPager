@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/classes-13659810803359d976788d55988634b58d9ff1de.jar" />
+    </item>
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/classes-50cb1266a6fdaae629ec822800a75239a3a02ca7.jar" />
+    </item>
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9c9ecd069ecefa3aadaf43572336e15048138844.jar" />
+    </item>
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/classes-e96f9959f73f6cc7e804a5c4fd03258169f78a77.jar" />
+    </item>
+    <item
+        jar="/home/fud/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-10935e3e9bece3823923c5fb91a5168b02d5046f.jar" />
+    </item>
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-52b1c4eeb4d78f018db2db867c6cb43e9a318bf7.jar" />
+    </item>
+    <item
+        jar="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/home/fud/AndroidStudioProjects/ViewPagerAndroidWearSample2/app/build/intermediates/pre-dexed/debug/classes-a770e44ca0818f0e26f8e4aa9e5fa0159502fa69.jar" />
+    </item>
+
+</items>
